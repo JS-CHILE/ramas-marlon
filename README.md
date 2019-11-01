@@ -1,2 +1,2 @@
 # ramas-marlon
-rama master
+rama 10.0
